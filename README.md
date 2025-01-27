@@ -2,6 +2,10 @@
 
 Caso você necessite agendar tarefas simples no Windows, esse tutorial tem o objetivo de mostrar o passo a passo. Vale lembrar que tarefas complexas, exigem o uso de um orquestrador, para que possa ter visibilidade completa e detalhada do fluxo. 
 
+## Video tutorial
+
+https://youtu.be/DQ381pccsFM
+
 
 ## Etapas
 
@@ -37,7 +41,7 @@ Por último, faça o mapeamento da pasta onde está o script Python em ```Start 
 
 ## Referência
 
-https://www.youtube.com/watch?v=4n2fC97MNac&t=481s
+https://www.youtube.com/watch?v=4n2fC97MNac&t
 
 ## Developer
 | Desenvolvedor      | LinkedIn                                   | Email                        | Portfólio                              |
